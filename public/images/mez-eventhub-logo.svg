@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="200" height="100">
+  <style>
+    .logo-text {
+      font-family: 'Arial', sans-serif;
+      font-weight: bold;
+      fill: #262248;
+    }
+    .mez {
+      font-size: 72px;
+    }
+    .eventhub {
+      font-size: 64px;
+    }
+  </style>
+  <text x="50" y="120" class="logo-text mez">MEZ</text>
+  <text x="50" y="200" class="logo-text eventhub">EventHub</text>
+</svg> 

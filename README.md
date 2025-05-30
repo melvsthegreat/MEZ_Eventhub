@@ -1,3 +1,4 @@
+MELVIN WALATH, ZYRILLE VILLANUEVA, ERWIN JAKE DAGPIN
 MEZ EventHub - Event Management System
 Overview
 MEZ EventHub is a comprehensive event management system built with Laravel that allows users to create, manage, and register for events. The system features a dual-interface design with separate views for administrators and clients, providing a seamless experience for both event organizers and participants.

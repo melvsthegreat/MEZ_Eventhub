@@ -9,59 +9,113 @@ ERWIN JAKE DAGPIN
 
 Overview
 MEZ EventHub is a comprehensive event management system built with Laravel that allows users to create, manage, and register for events. The system features a dual-interface design with separate views for administrators and clients, providing a seamless experience for both event organizers and participants.
+
 Key Features
+
 For Administrators
+
 Dashboard: Overview of all events and registrations
+
 Event Management:
+
 Create, edit, and delete events
+
 Set event capacity and registration deadlines
+
 Manage event status (draft/published)
+
 View registration statistics
+
 Registration Management:
+
 View all registrations
+
 Approve/reject registration requests
+
 Export registration data
+
 User Management:
+
 View all users
+
 Manage user roles
+
 Track user activity
+
 For Clients
+
 Event Discovery:
+
 Browse published events
+
 Search events by title, description, or location
+
 Filter events by date range (today, this week, this month)
+
 Registration:
+
 Register for events
+
 View registration status
+
 Cancel registrations
+
 Profile Management:
+
 Update personal information
+
 View registration history
+
 Manage notifications
+
 Technical Features
+
 Authentication System:
+
 Secure login/registration
+
 Role-based access control (Admin/Client)
+
 Password reset functionality
+
 Responsive Design:
+
 Mobile-friendly interface
+
 Bootstrap 5 framework
+
 Custom CSS styling
+
 Data Management:
+
 Pagination for large datasets
+
 Search and filter capabilities
+
 Data export functionality
+
 Security:
+
 CSRF protection
+
 Form validation
+
 Secure password handling
+
 Technology Stack
+
 Backend: Laravel 10.x
+
 Frontend:
+
 Bootstrap 5
+
 Bootstrap Icons
+
 Custom CSS
+
 Database: MySQL
+
 Authentication: Laravel Sanctum
 
 

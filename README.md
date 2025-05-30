@@ -1,10 +1,10 @@
+MEZ EventHub - Event Management System
+
 MELVIN WALATH, 
 
 ZYRILLE VILLANUEVA, 
 
 ERWIN JAKE DAGPIN
-
-MEZ EventHub - Event Management System
 
 
 Overview
